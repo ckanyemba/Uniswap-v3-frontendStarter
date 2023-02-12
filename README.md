@@ -2,10 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Uniswap is an automated ethereum-based crypto exchange with its own governance token, UNI.
+
 ![Capture](https://user-images.githubusercontent.com/95967301/218311994-ebdd9e53-945d-4358-8b67-c286fdd6b945.PNG)
 
 
 ## Available Scripts
+
+### `yarn install`
 
 In the project directory, you can run:
 
